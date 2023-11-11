@@ -1,0 +1,17 @@
+@media screen and (max-width: 600px) and (min-width: 200px) {
+
+    nav {
+        text-align: center;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .mainContent {
+        display: block;
+        height: auto;
+    }
+
+
+}
